@@ -1,5 +1,5 @@
 ### Hi there this is Pig [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
-[![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula))](https://github.com/PIPIPIG233666)
+[![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/PIPIPIG233666)
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/static/v1?label=Lineage&message=OS&color=167c80)](https://github.com/LineageOS)
 - 🌱 I’m currently learning C++, ASM
