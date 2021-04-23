@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++, ASM
 - 🤔 I’m looking for help with my brain
 - 💬 Ask me about Android device bringup (Qualcomm only)
-- 📫 How to reach me: [Email](pig.priv@gmail.com)
+- 📫 How to reach me: [Email](mailto:pig.priv@gmail.com)
 
 - I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) if you enjoy my work, feel free to help me pay for my server via 
 <noscript><a href="https://liberapay.com/Pig/donate"><img alt="Help me pay for my server using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
