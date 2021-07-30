@@ -1,19 +1,27 @@
 ### Hi there this is Pig [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
 [![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/PIPIPIG233666)
 
-- 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos&logoColor=ffffff)](https://github.com/LineageOS)
-- 💻 I'm currently working with 
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows10)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://github.com/yuk7/ArchWSL)
-[![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
+- 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
+- 💻 My current setup on
+  [![PC:Legion 5 Pro AMD Gen 6](https://img.shields.io/badge/PC-Legion%205%20Pro%20-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Legion-5-Pro-16ACH6H/p/WMD00000468) is
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) dual boot with
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  
+  and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
+  [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
+  
+  BTW, [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) with [![EDITOR:Vim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/) extension is luv ❤️
+
 - 🌱 I’m currently learning C++, ASM, python
 - 🤔 I’m looking for help with my brain
-- 💬 Ask me about Android device bringup (Qualcomm only)
-- 📫 How to reach me: [Email](mailto:pig.priv@gmail.com)
+- 💬 Ask me about Android device bringup (Qualcomm only) or on how to brick your device (both software and hardware wise)😂
+- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-pig.priv@gmail.com-red?style=flat-square&logo=gmail)](mailto:pig.priv@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
-- I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) if you enjoy my work, feel free to help me pay for my server via 
-<noscript><a href="https://liberapay.com/Pig/donate"><img alt="Help me pay for my server using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
+- I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) 
+- if you enjoy my work, feel free to sponsor me via 
+<noscript><a href="https://liberapay.com/Pig/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
 <a href="https://www.paypal.me/pig236"><img height="32" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Dark/Big.png" alt="Help me pay for my server using PayPal" />
- 
+<div align="center">
 <img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/Pig">
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/Pig">
+<div/>
