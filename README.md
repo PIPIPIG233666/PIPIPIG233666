@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
-  [![PC:Legion 5 Pro AMD Gen 6](https://img.shields.io/badge/PC-Legion%205%20Pro%20-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Legion-5-Pro-16ACH6H/p/WMD00000468) is
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) dual boot with
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  [![PC:Legion 7i Gen 6](https://img.shields.io/badge/PC-Legion%207i%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-16ITH6/p/LEN101G0002) is
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
+  [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![VmWare](https://img.shields.io/badge/VmWare-Workstation%20Pro-white?style=flat-square&logo=vmware&logoColor=ffffff)](https://www.vmware.com/)
   
   and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
   [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
