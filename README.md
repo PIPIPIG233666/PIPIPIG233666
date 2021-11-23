@@ -5,7 +5,7 @@
 - 💻 My current setup on
   [![PC:Legion 7i Gen 6](https://img.shields.io/badge/PC-Legion%207i%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-16ITH6/p/LEN101G0002) is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
-  [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![VmWare](https://img.shields.io/badge/VmWare-Workstation%20Pro-white?style=flat-square&logo=vmware&logoColor=ffffff)](https://www.vmware.com/)
+  [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![HyperV](https://img.shields.io/badge/Microsoft-Hyper%20V-blue?style=flat-square&logo=microsoft&logoColor=ffffff)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
   
   and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
   [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
