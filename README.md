@@ -8,7 +8,7 @@
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![HyperV](https://img.shields.io/badge/Microsoft-Hyper%20V-blue?style=flat-square&logo=microsoft&logoColor=ffffff)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
   
   and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
-  [![OS:Android11](https://img.shields.io/badge/OS-Android11-green?style=flat-square&logo=android)](https://www.android.com/)
+  [![OS:Android11](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
   
   BTW, [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) with [![EDITOR:Vim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/) extension is luv ❤️
 
