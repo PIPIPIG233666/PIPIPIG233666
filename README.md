@@ -5,7 +5,7 @@
 - 💻 My current setup on
   [![PC:Legion 7i Gen 6](https://img.shields.io/badge/PC-Legion%207i%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-16ITH6/p/LEN101G0002) is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
-  [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![HyperV](https://img.shields.io/badge/Microsoft-Hyper%20V-blue?style=flat-square&logo=microsoft&logoColor=ffffff)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
+  [![OS:Arch](https://img.shields.io/badge/OS-Arch-blue?style=flat-square&logo=Archlinux)](https://archlinux.org/) within [![WSL2](https://img.shields.io/badge/Microsoft-WSL2-blue?style=flat-square&logo=microsoft&logoColor=ffffff)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
   
   and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
   [![OS:Android11](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
@@ -20,7 +20,7 @@
 - I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) 
 - if you enjoy my work, feel free to sponsor me via 
 <noscript><a href="https://liberapay.com/Pig/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
-<a href="https://www.paypal.me/pig236"><img height="32" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Dark/Big.png" alt="Help me pay for my server using PayPal" />
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/pig236)
 <div align="center">
 <img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/Pig">
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/Pig">
