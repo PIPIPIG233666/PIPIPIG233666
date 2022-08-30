@@ -3,18 +3,19 @@
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
-  [![PC:Legion 7i Gen 6](https://img.shields.io/badge/PC-Legion%207i%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-16ITH6/p/LEN101G0002) is
+  [![PC:Lian Li A4-H2O](https://img.shields.io/badge/PC-A4%20H2O%20-blue?style=flat-square)]() is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
-  [![OS:Arch](https://img.shields.io/badge/OS-Arch-blue?style=flat-square&logo=Archlinux)](https://archlinux.org/) within [![WSL2](https://img.shields.io/badge/Microsoft-WSL2-blue?style=flat-square&logo=microsoft&logoColor=ffffff)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
+  [![OS:KUbuntu](https://img.shields.io/badge/OS-KUbuntu-blue?style=flat-square&logo=KUbuntu)](). and
+  [![OS:Hackintosh](https://img.shields.io/badge/OS-Macintosh-purple?style=flat-square&logo=Apple)]()
   
-  and [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
-  [![OS:Android11](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
+  along with [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) with
+  [![OS:Android12](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
   
-  BTW, [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) with [![EDITOR:Vim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/) extension is luv ❤️
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) with [![EDITOR:Vim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/) extension is luv ❤️
 
-- 🌱 I’m currently learning C++, ASM, python
+- 🌱 I’m currently learning C++, ASM, python, Java/Kotlin
 - 🤔 I’m looking for help with my brain
-- 💬 Ask me about Android device bringup (Qualcomm only) or on how to brick your device (both software and hardware wise)😂
+- 💬 Ask me about computers or on how to brick your device (both software and hardware wise)😂
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-pig.priv@gmail.com-red?style=flat-square&logo=gmail)](mailto:pig.priv@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
 - I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) 
