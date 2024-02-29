@@ -34,18 +34,15 @@ Check out my [website](https://dev.pppig236.com) and my [blog](https://dev.pppig
 Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
 - 🔭 [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS) 
 
-- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Gentoo](https://img.shields.io/badge/OS-Gentoo-cyan?style=flat-square&logo=Gentoo)]() [![OS:Hackintosh](https://img.shields.io/badge/OS-Macintosh-purple?style=flat-square&logo=Apple)]() [![OS:Android13](https://img.shields.io/badge/OS-Android13-green?style=flat-square&logo=android)](https://www.android.com/)
+- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Gentoo](https://img.shields.io/badge/OS-Gentoo-cyan?style=flat-square&logo=Gentoo)]() [![OS:Hackintosh](https://img.shields.io/badge/OS-Sonoma-purple?style=flat-square&logo=Apple)]() [![OS:Android13](https://img.shields.io/badge/OS-Android13-green?style=flat-square&logo=android)](https://www.android.com/)
 - 🧑‍💻 [![EDITOR:SpaceVim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/)
 
-- 🌱 I’m currently learning C++ in college
-- ⛳ I’m inactively learning python, Java/Kotlin on my own
-- 🤔 I’m looking for help with reverse engineering
-- 🖥️ I’m going to major in Computer Engineering 
-- 💬 Ask me how to brick your devices
-   (both software and hardware-wise) 
-
-
-- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-priv@pppig236.com-red?style=flat-square&logo=gmail)](mailto:priv@pppig236.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
+- 🌱 Currently learning C++/Julia in college
+- ⛳ Inactively learning python, Java/Kotlin whenever needed
+- 🤔 Looking for help with reverse engineering ARM64 static objects
+- 🖥️ Majoring in Computer Engineering
+- 💬 Ask me how to brick your devices {software,hardware}-wise
+- 📫 Reach me at: [![email](https://img.shields.io/badge/Email-priv@pppig236.com-red?style=flat-square&logo=gmail)](mailto:priv@pppig236.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
 </td>
 <td>
