@@ -1,6 +1,20 @@
 ### Hi there, this is Pig
-Check out my [website](https://dev.pppig236.com)!
+<table>
+<tr>
+</tr>
+<tr>
+<td>
 
+Check out my [website](https://dev.pppig236.com) and my [blog](https://dev.pppig236.com/blog/)! (spaceholder) 
+
+</td>
+<td>
+
+  [![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/PIPIPIG233666)
+
+</td>
+</tr>
+</table>
 <!---
 - if you enjoy my work, feel free to sponsor me via 
 <noscript><a href="https://liberapay.com/Pig/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
@@ -33,15 +47,15 @@ Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/d
 
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-priv@pppig236.com-red?style=flat-square&logo=gmail)](mailto:priv@pppig236.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
-  [![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/PIPIPIG233666)
-
-
 </td>
 <td>
-  
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vrvyd5jsumwkam3pjwsxzeklmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=cc85a1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 </td>
 </tr>
 </table>
+
+
+  
