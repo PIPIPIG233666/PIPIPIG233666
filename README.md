@@ -47,7 +47,7 @@ Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/d
 </td>
 <td>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vrvyd5jsumwkam3pjwsxzeklmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=cc85a1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vrvyd5jsumwkam3pjwsxzeklmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=cc85a1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 </td>
