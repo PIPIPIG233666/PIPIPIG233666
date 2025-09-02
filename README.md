@@ -38,7 +38,7 @@ Check out my [website](https://dev.pppig236.com) and my [blog](https://dev.pppig
 - 🌱 Currently learning Verilog/ASM/C/~~Julia~~ (No more Julia 'Til more DSP) in college
 - ⛳ Inactively learning Python, Java/Kotlin whenever needed
 - 🤔 Looking for help with reverse engineering ARM64 static objects and binaries
-- 🖥️ Majoring in (Electrical) Computer Engineering on the Embedded (Wireless Communication) System / VLSI track
+- 🖥️ Majoring in Electrical Engineering on the Wireless Communication / Solid-state / VLSI track
 - 💬 Ask me how to brick your devices `{software,hardware}`-wise
 - 📫 Reach me at: [![email](https://img.shields.io/badge/Email-priv@pppig236.com-red?style=flat-square&logo=gmail)](mailto:priv@pppig236.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
